@@ -1,8 +1,9 @@
-##机器学习(Machine Learning)&深度学习(Deep Learning)资料
+## 机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)
 
----
-#####希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．
----
+##### 注:机器学习资料[篇目一](https://github.com/ty4z2008/Qix/blob/master/dl.md)共500条,[篇目二](https://github.com/ty4z2008/Qix/blob/master/dl2.md)开始更新
+
+##### 希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．此外:某些资料在中国访问需要梯子.
+
 
 
 * [《Brief History of Machine Learning》](http://www.erogol.com/brief-history-machine-learning/)
@@ -42,7 +43,7 @@
 
  介绍:<机器学习与优化>这是一本机器学习的小册子, 短短300多页道尽机器学习的方方面面. 图文并茂, 生动易懂, 没有一坨坨公式的烦恼. 适合新手入门打基础, 也适合老手温故而知新. 比起MLAPP/PRML等大部头, 也许这本你更需要!具体内容推荐阅读:http://intelligent-optimization.org/LIONbook/ 
 
-* [《深度学习与统计学习理论》](http://1.guzili.sinaapp.com/?p=174)
+* [《深度学习与统计学习理论》](http://php-52cs.rhcloud.com/?cat=7)
 
 介绍:作者是来自百度，不过他本人已经在2014年4月份申请离职了。但是这篇文章很不错如果你不知道深度学习与支持向量机/统计学习理论有什么联系？那么应该立即看看这篇文章.
 
@@ -136,7 +137,7 @@
 
 *[《Deep Learning for Natural Language Processing and Related Applications》](http://research.microsoft.com/pubs/217165/ICASSP_DeepTextLearning_v07.pdf)
 
-介绍:这份文档来自微软研究院,精髓很多。如果需要完全理解，需要一定的机器学习基础。不过有些地方会让人眼前一亮,毛塞顿开。
+介绍:这份文档来自微软研究院,精髓很多。如果需要完全理解，需要一定的机器学习基础。不过有些地方会让人眼前一亮,茅塞顿开。
 
 * [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 
@@ -150,7 +151,7 @@
 
 介绍：一个超级完整的机器学习开源库总结，如果你认为这个碉堡了，那后面这个列表会更让你惊讶：【Awesome Awesomeness】,国内已经有热心的朋友进行了翻译[中文介绍](http://blog.jobbole.com/73806/)，[机器学习数据挖掘免费电子书](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 
-* [斯坦福《自然语言处理》课程视频](http://see.stanford.edu/see/lecturelist.aspx?coll=63480b48-8819-4efd-8412-263f1a472f5a)
+* [斯坦福《自然语言处理》课程视频](http://cs224d.stanford.edu/syllabus.html)
 
 介绍:ACL候任主席、斯坦福大学计算机系Chris Manning教授的《自然语言处理》课程所有视频已经可以在斯坦福公开课网站上观看了（如Chrome不行，可用IE观看） 作业与测验也可以下载。
 
@@ -206,10 +207,6 @@
 
 介绍：Sibyl 是一个监督式机器学习系统，用来解决预测方面的问题，比如 YouTube 的视频推荐。
 
-* [《Deep Learning》](http://www.iro.umontreal.ca/~bengioy/dlbook/)
-
-介绍：Yoshua Bengio, Ian Goodfellow, Aaron Courville著
-
 * [《Neural Network & Text Mining》](http://www.slideshare.net/ssuser9cc1bd/piji-li-dltm)
 
 介绍:关于(Deep) Neural Networks在 NLP 和 Text Mining 方面一些paper的总结
@@ -242,7 +239,7 @@
 
 介绍:下集在这里[神奇的伽玛函数(下)](http://www.flickering.cn/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/2014/06/%E7%A5%9E%E5%A5%87%E7%9A%84%E4%BC%BD%E7%8E%9B%E5%87%BD%E6%95%B0%E4%B8%8A/)
 
-* [《分布式机器学习的故事》](http://cxwangyi.github.io/2014/01/20/distributed-machine-learning/)
+* [《分布式机器学习的故事》](http://cxwangyi.github.io/notes/2014-01-20-distributed-machine-learning.html)
 
 介绍:作者王益目前是腾讯广告算法总监，王益博士毕业后在google任研究。这篇文章王益博士7年来从谷歌到腾讯对于分布机器学习的所见所闻。值得细读
 
@@ -390,7 +387,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:MIT的Underactuated Robotics于 2014年10月1日开课，该课属于MIT研究生级别的课程，对机器人和非线性动力系统感兴趣的朋友不妨可以挑战一下这门课程！
 
-* [《mllib实践经验(1)》](http://yanbohappy.sinaapp.com/?p=498)
+* [《mllib实践经验(1)》](http://www.csdn.net/article/2014-12-26/2823330)
 
 介绍:mllib实践经验分享
 
@@ -417,7 +414,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《Hacker's guide to Neural Networks》](http://karpathy.github.io/neuralnets/)
 
-介绍：【神经网络黑客指南】现在，最火莫过于深度学习（Deep Learning），怎样更好学习它？可以让你在浏览器中，跑起深度学习效果的超酷开源项目convnetjs作者karpathy告诉你，最佳技巧是，当你开始写代码，一切将变得清晰。他刚发布了一本图书，不断在线更新
+介绍：【神经网络黑客指南】现在，最火莫过于深度学习（Deep Learning），怎样更好学习它？可以让你在浏览器中，跑起深度学习效果的超酷开源项目[ConvNetJS](https://github.com/karpathy/convnetjs)作者karpathy告诉你，最佳技巧是，当你开始写代码，一切将变得清晰。他刚发布了一本图书，不断在线更新
 
 * [《Building a Production Machine Learning Infrastructure》](http://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/)
 
@@ -456,11 +453,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍：本项目利用了Microsoft Azure，可以在几分种内完成NLP on Azure Website的部署，立即开始对FNLP各种特性的试用，或者以REST API的形式调用FNLP的语言分析功能
 
-* [《吴立德《概率主题模型&数据科学基础》》](http://www.youku.com/playlist_show/id_22935176.html)
+* [《吴立德《概率主题模型&数据科学基础》](http://www.youku.com/playlist_show/id_22935176.html)
 
 介绍：现任复旦大学首席教授、计算机软件博士生导师。计算机科学研究所副所长.内部课程
 
-* [《机器学习入门资源不完全汇总》》](http://ml.memect.com/article/machine-learning-guide.html)
+* [《机器学习入门资源不完全汇总》](http://ml.memect.com/article/machine-learning-guide.html)
 
 介绍：好东西的干货真的很多
 
@@ -1098,7 +1095,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《HMM相关文章索引》](http://www.52nlp.cn/hmm%E7%9B%B8%E5%85%B3%E6%96%87%E7%AB%A0%E7%B4%A2%E5%BC%95)
 
-介绍: HMM相关文章
+介绍: HMM相关文章,此外推荐[中文分词之HMM模型详解](http://yanyiwu.com/work/2014/04/07/hmm-segment-xiangjie.html)
 
 * [《Zipf's and Heap's law》](http://www.ccs.neu.edu/home/ekanou/ISU535.09X2/Handouts/Review_Material/zipfslaw.pdf)
 
@@ -1142,7 +1139,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《Deep Learning Tutorials》](http://deeplearning.net/tutorial/)
 
-介绍:深度学习教程
+介绍:深度学习教程,[github](https://github.com/lisa-lab/DeepLearningTutorials)
 
 * [《自然语言处理的发展趋势——访卡内基梅隆大学爱德华·霍威教授》](http://www.ccf.org.cn/resources/1190201776262/2015/03/12/15.pdf)
 
@@ -1222,7 +1219,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《Machine learning for package users with R (1): Decision Tree》](http://tjo-en.hatenablog.com/entry/2015/03/20/191614)
 
-介绍: 决策树
+介绍: 决策树，推荐决策树相关论文[阅读列表](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 
 * [《Deep Learning, The Curse of Dimensionality, and Autoencoders》](http://www.kdnuggets.com/2015/03/deep-learning-curse-dimensionality-autoencoders.html)
 
@@ -1260,7 +1257,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍: 零售领域的数据挖掘文章.
 
-* [《Understanding Convolution in Deep Learning》](https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/)
+* [《Understanding Convolution in Deep Learning》](https://timdettmers.com/2015/03/26/convolution-deep-learning/)
 
 介绍: 深度学习卷积概念详解,深入浅出.
 
@@ -1276,9 +1273,9 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍: 深度学习框架、库调研及Theano的初步测试体会报告.
 
-* [《DEEP learning》](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+* [《DEEP learning》](http://www.deeplearningbook.org/)
 
-介绍:  MIT的Yoshua Bengio等人讲深度学习的新书，还未定稿，线上提供Draft chapters收集反馈，超赞！强烈推荐.
+介绍:  MIT的Yoshua Bengio, Ian Goodfellow, Aaron Courville著等人讲深度学习的新书，还未定稿，线上提供Draft chapters收集反馈，超赞！强烈推荐.
 
 * [《simplebayes》](https://github.com/hickeroar/simplebayes)
 
@@ -1663,3 +1660,379 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Deep learning applications and challenges in big data analytics》](http://www.journalofbigdata.com/content/2/1/1)
 
 介绍:深度学习在大数据分析领域的应用和挑战.
+
+* [《Free book:Machine Learning,Mathematics》](http://resrc.io/list/10/list-of-free-programming-books/#machine-learning)
+
+介绍:免费的机器学习与数学书籍,除此之外还有其他的[免费编程书籍](https://github.com/vhf/resrc),编程语言,设计,操作系统等.
+
+* [《Object detection via a multi-region & semantic segmentation-aware CNN model》](http://arxiv.org/pdf/1505.01749.pdf)
+
+介绍:一篇关于CNN模型对象识别Paper.
+
+* [《A Statistical View of Deep Learning (V): Generalisation and Regularisation》](http://blog.shakirm.com/2015/05/a-statistical-view-of-deep-learning-v-generalisation-and-regularisation/)
+
+介绍:深度学习的统计分析V:泛化和正则化.
+
+* [《Highway Networks》](http://arxiv.org/abs/1505.00387)
+
+介绍:用SGD能高效完成训练的大规模(多层)深度网络HN.
+
+* [《What I Read For Deep-Learning》](http://www.erogol.com/what-i-read-for-deep-learning/)
+
+介绍:深度学习解读文章.
+
+* [《An Introduction to Recommendation Engines》](http://dataconomy.com/an-introduction-to-recommendation-engines)
+
+介绍:Coursera上的推荐系统导论（Introduction to Recommender Systems）公开课.
+
+* [《Stanford Machine Learning》](http://www.holehouse.org/mlclass/index.html)
+
+介绍:Andrew Ng经典机器学习课程笔记.
+
+* [《ICLR 2015》](http://yaroslavvb.blogspot.de/2015/05/iclr-2015_12.html)
+
+介绍:ICLR 2015见闻录,[博客](http://yaroslavvb.blogspot.de/)的其他机器学习文章也不错.
+
+* [《Stanford Machine Learning》](http://www.cripac.ia.ac.cn/People/sw/Xu2015PSR.pdf)
+
+介绍:推荐系统"个性化语义排序"模型.
+
+* [《The More Excited We Are, The Shorter We Tweet》](http://senseable.mit.edu/tweetbursts/)
+
+介绍:激情时分更惜字——MIT的最新Twitter研究结果.
+
+* [《苏州大学人类语言技术研究论文主页》](http://hlt.suda.edu.cn/paper.html)
+
+介绍:苏州大学人类语言技术研究相关论文.
+
+* [《Neural Turing Machines implementation》](http://arxiv.org/abs/1505.00387)
+
+介绍:实现神经图灵机(NTM),[项目地址](https://github.com/fumin/ntm),此外推荐相关神经图灵机[算法](http://www.i-programmer.info/news/105-artificial-intelligence/7923-neural-turing-machines-learn-their-algorithms.html).
+
+* [《Computer Vision - CSE 559A, Spring 2015》](http://www.cse.wustl.edu/~furukawa/cse559a/2015_spring/)
+
+介绍:华盛顿大学的机器视觉(2015),参考资料[Computer Vision: Algorithms and Applications](http://szeliski.org/Book/).
+
+* [《Mining of Massive Datasets》](http://www.mmds.org/)
+
+介绍:"Mining of Massive Datasets"发布第二版,Jure Leskovec, Anand Rajaraman, Jeff Ullman 新版增加Jure Leskovec作为合作作者，新增社交网络图数据挖掘、降维和大规模机器学习三章,[电子版](http://pan.baidu.com/s/1GvtpG)依旧免费.
+
+* [《Learning Deep Learning》](http://rt.dgyblog.com/ref/ref-learning-deep-learning.html)
+
+介绍:一个深度学习资源页,资料很丰富.
+
+* [《Learning Deep Learning》](http://vdisk.weibo.com/s/ayG13we2ler9b)
+
+介绍:免费电子书"Learning Deep Learning".
+
+* [《Tutorial: Machine Learning for Astronomy with Scikit-learn》](http://www.astroml.org/sklearn_tutorial/index.html)
+
+介绍:Machine Learning for Astronomy with scikit-learn.
+
+* [《An Introduction to Random Forests for Beginners》](http://info.salford-systems.com/an-introduction-to-random-forests-for-beginners)
+
+介绍:免费电子书"随机森林入门指南".
+
+* [《Top 10 data mining algorithms in plain English》](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+
+介绍:白话数据挖掘十大算法.
+
+* [《An Inside Look at the Components of a Recommendation Engine》](https://www.mapr.com/blog/inside-look-at-components-of-recommendation-engine#.VVmZ5vmqqko)
+
+介绍:基于Mahout和Elasticsearch的推荐系统,[国内译版](http://www.csdn.net/article/2015-05-14/2824676).
+
+* [《Advances in Extreme Learning Machines》](https://aaltodoc.aalto.fi/bitstream/handle/123456789/15585/isbn9789526061498.pdf)
+
+介绍:博士学位论文:ELM研究进展.
+
+* [《10-minute tour of pandas》](https://vimeo.com/59324550)
+
+介绍:Pandas十分钟速览,[ipn](http://nbviewer.ipython.org/urls/gist.github.com/wesm/4757075/raw/a72d3450ad4924d0e74fb57c9f62d1d895ea4574/PandasTour.ipynb).
+
+* [《Data doesn't grow in tables: harvesting journalistic insight from documents》](http://pudo.org/blog/2015/05/15/document-mining.html)
+
+介绍:面向数据新闻的文本挖掘.
+
+* [《Time-lapse Mining from Internet Photos》](http://grail.cs.washington.edu/projects/timelapse/)
+
+介绍:用网络图片合成延时视频(SIGGRAPH 2015).
+
+* [《The Curse of Dimensionality in classification》](http://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/)
+
+介绍:分类系统的维数灾难.
+
+* [《Deep Learning vs Big Data: Who owns what?》](http://www.computervisionblog.com/2015/05/deep-learning-vs-big-data-who-owns-what.html)
+
+介绍:深度学习vs.大数据——从数据到知识：版权的思考,[翻译版](http://www.csdn.net/article/2015-05-19/2824707
+
+* [《A Primer on Predictive Models》](http://www.nature.com/ctg/journal/v5/n1/abs/ctg201319a.html)
+
+介绍:预测模型入门.
+
+* [《Demistifying LSTM Neural Networks》](http://blog.terminal.com/demistifying-long-short-term-memory-lstm-recurrent-neural-networks/)
+
+介绍:深入浅出LSTM.
+
+* [《ICLR 2015》](https://www.youtube.com/playlist?list=PLhiWXaTdsWB8PnrVZquVyqlRFWXM4ijYz)
+
+介绍:2015年ICLR会议[视频](http://pan.baidu.com/s/1bnbbRyR)与[讲义](http://www.iclr.cc/doku.php?id=iclr2015:main).
+
+* [《On Visualizing Data Well》](http://dataremixed.com/2015/05/on-visualizing-data-well/)
+
+介绍:Ben Jones的数据可视化建议.
+
+* [《Decoding Dimensionality Reduction, PCA and SVD》](http://bigdata-madesimple.com/decoding-dimensionality-reduction-pca-and-svd/)
+
+介绍:解读数据降维/PCA/SVD.
+
+* [《Supervised learning superstitions cheat sheet》](http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html)
+
+介绍:IPN:监督学习方法示例/对比参考表,覆盖logistic回归, 决策树, SVM, KNN, Naive Bayes等方法.
+
+* [《DopeLearning: A Computational Approach to Rap Lyrics Generation》](http://arxiv.org/abs/1505.04771)
+
+介绍:基于RankSVM和DNN自动(重组)生成Rap歌词.
+
+* [《An Introduction to Random Indexing》](https://www.sics.se/~mange/papers/RI_intro.pdf)
+
+介绍:随机索引RI词空间模型专题.
+
+* [《VDiscover》](http://www.vdiscover.org/)
+
+介绍:基于机器学习的漏洞检测工具VDiscover.
+
+* [《Minerva》](https://github.com/dmlc/minerva)
+
+介绍:深度学习系统minerva。拥有python编程接口。多GPU几乎达到线性加速。在4块GPU上能在4天内将GoogLeNet训练到68.7%的top-1以及89.0%的top-5准确率。和同为dmlc项目的cxxnet相比，采用动态数据流引擎，提供更多灵活性。未来将和cxxnet一起整合为mxnet项目，互取优势.
+
+* [《CVPR 2015 paper》](http://www.cv-foundation.org/openaccess/CVPR2015.py)
+
+介绍:2015年国际计算机视觉与模式识别会议paper.
+
+* [《What are the advantages of different classification algorithms?》](http://www.quora.com/What-are-the-advantages-of-different-classification-algorithms/answer/Xavier-Amatriain)
+
+介绍:Netflix工程总监眼中的分类算法：深度学习优先级最低,[中文版](http://www.csdn.net/article/2015-05-24/2824758).
+
+* [《Results for Microsoft COCO Image Captioning Challenge》](https://www.codalab.org/competitions/3221#results)
+
+介绍:Codalab图像标注竞赛排行+各家论文,Reddit上flukeskywalker整理了各家技术[相关论文](http://www.reddit.com/r/MachineLearning/comments/376b28/comparison_of_official_test_scores_of_current/).
+
+* [《Caffe con Troll: Shallow Ideas to Speed Up Deep Learning》](http://arxiv.org/abs/1504.04343)
+
+介绍:基于Caffe的加速深度学习系统CcT.
+
+* [《Low precision storage for deep learning》](http://arxiv.org/abs/1412.7024)
+
+介绍:深度学习(模型)低精度(训练与)存储.
+
+* [《Model-Based Machine Learning (Early Access)》](http://www.mbmlbook.com/index.html)
+
+介绍:新书预览:模型机器学习.
+
+* [《Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems》](http://www.princeton.edu/~sbubeck/SurveyBCB12.pdf)
+
+介绍:免费电子书多臂老虎机,此外推荐[Introduction to Bandits: Algorithms and Theory](https://sites.google.com/site/banditstutorial/).
+
+* [《Kaggle R Tutorial on Machine Learing》](https://www.datacamp.com/courses/kaggle-tutorial-on-machine-learing-the-sinking-of-the-titanic)
+
+介绍:基于Kaggle's Titanic Competition的交互式R机器学习教程,介绍[《Interactive R Tutorial: Machine Learning for the Titanic Competition》](http://blog.kaggle.com/2015/05/27/interactive-r-tutorial-machine-learning-for-the-titanic-competition/).
+
+* [《Deep Learning（深度学习）学习笔记整理系列》](http://suanfazu.com/t/deep-learning/9401)
+
+介绍:Deep Learning（深度学习）学习笔记整理系列.
+
+* [《Introduction to Neural Machine Translation with GPUs 》](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)
+
+介绍:神经(感知)机器翻译介绍.
+
+* [《Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning》](https://www.youtube.com/watch?v=n1ViNeWhC24&hd=1)
+
+介绍:Andrew Ng关于深度学习/自学习/无监督特征学习的报告,[国内云](http://pan.baidu.com/s/1jG8DUN8).
+
+* [《Recurrent Neural Network Training with Dark Knowledge Transfer》](http://arxiv.org/abs/1505.04630)
+
+介绍:论文:通过潜在知识迁移训练RNN.
+
+* [《Show Me The Money》](https://github.com/chrischris292/ShowMeTheMoney)
+
+介绍:面向金融数据的情感分析工具.
+
+* [《pyLDAvis》](https://github.com/bmabey/pyLDAvis)
+
+介绍:(Python)主题模型交互可视化库pyLDAvis.
+
+* [《Logistic Regression and Gradient Descent》](http://nbviewer.ipython.org/github/tfolkman/learningwithdata/blob/master/Logistic%20Gradient%20Descent.ipynb)
+
+介绍:Logistic回归与优化实例教程.
+
+* [《贾扬清微信讲座记录》](http://pan.baidu.com/s/1dDGVL53)
+
+介绍:贾扬清（谷歌大脑科学家、caffe缔造者）微信讲座记录.
+
+* [《sketch》](https://github.com/udibr/sketch)
+
+介绍:Theano/Blocks实现RNN手写字符串生成sketch.
+
+* [《Web Scale Document Clustering: Clustering 733 Million Web Pages》](http://chris.de-vries.id.au/2015/05/web-scale-document-clustering.html)
+
+介绍:基于TopSig的海量(7亿+)网页聚类.
+
+* [《NAACL 2015 Proceedings on ACL Anthology》](http://aclweb.org/anthology/N/N15/)
+
+介绍:NAACL 2015 论文papers.
+
+* [《Stock Forecasting With Machine Learning - Seven Possible Errors》](http://www.anlytcs.com/2015/05/stock-forecasting-with-machine-learning.html)
+
+介绍:机器学习预测股市的七个问题.
+
+* [《Are there any good resources for learning about neural networks?》](http://www.reddit.com/r/MachineLearning/comments/378but/are_there_any_good_resources_for_learning_about/)
+
+介绍:神经网络学习资料推荐.
+
+* [《A Critical Review of Recurrent Neural Networks for Sequence Learning》](http://arxiv.org/abs/1506.00019v1)
+
+介绍:面向序列学习的RNN综述.
+
+* [《Handling and Processing Strings in R》](http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf)
+
+介绍:R文本处理手册.
+
+* [《Must-watch videos about Python》](https://github.com/s16h/py-must-watch)
+
+介绍:“必看”的Python视频集锦.
+
+* [《The Google Stack》](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
+
+介绍:Google(基础结构)栈.
+
+* [《Randomized Algorithms for Matrices and Data》](http://cs.stanford.edu/people/mmahoney/f13-stat260-cs294/)
+
+介绍:矩阵和数据的随机算法(UC Berkeley 2013).
+
+* [《Intermediate R》](https://www.datacamp.com/courses/intermediate-r)
+
+介绍:DataCamp中级R语言教程.
+
+* [《Topology Without Tears》](http://www.topologywithouttears.net/)
+
+介绍:免费电子书:轻松掌握拓扑学,[中文版](http://www.topologywithouttears.net/topbookchinese.pdf).
+
+* [《Information Theory, Pattern Recognition, and Neural Networks》](http://www.inference.phy.cam.ac.uk/itprnn_lectures/)
+
+介绍:[Book](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf),[video](https://www.youtube.com/user/jakobfoerster/videos).
+
+* [《Scikit-learn》](www.github.com/scikit-learn/scikit-learn)
+
+介绍:Scikit-learn 是基于Scipy为机器学习建造的的一个Python模块，他的特色就是多样化的分类，回归和聚类的算法包括支持向量机，逻辑回归，朴素贝叶斯分类器，随机森林，Gradient Boosting，聚类算法和DBSCAN。而且也设计出了Python numerical和scientific libraries Numpy and Scipy
+
+* [《Pylearn2》](www.github.com/lisa-lab/pylearn2)
+
+介绍:Pylearn是一个让机器学习研究简单化的基于Theano的库程序。
+
+* [《NuPIC》](www.github.com/numenta/nupic)
+
+介绍:NuPIC是一个以HTM学习算法为工具的机器智能平台。HTM是皮层的精确计算方法。HTM的核心是基于时间的持续学习算法和储存和撤销的时空模式。NuPIC适合于各种各样的问题,尤其是检测异常和预测的流数据来源。
+
+* [《Nilearn》](www.github.com/nilearn/nilearn)
+
+介绍:Nilearn 是一个能够快速统计学习神经影像数据的Python模块。它利用Python语言中的scikit-learn 工具箱和一些进行预测建模，分类，解码，连通性分析的应用程序来进行多元的统计。
+
+* [《PyBrain》](www.github.com/pybrain/pybrain)
+
+介绍:Pybrain是基于Python语言强化学习，人工智能，神经网络库的简称。 它的目标是提供灵活、容易使用并且强大的机器学习算法和进行各种各样的预定义的环境中测试来比较你的算法。
+
+* [《Pattern》](www.github.com/clips/pattern)
+
+介绍:Pattern 是Python语言下的一个网络挖掘模块。它为数据挖掘，自然语言处理，网络分析和机器学习提供工具。它支持向量空间模型、聚类、支持向量机和感知机并且用KNN分类法进行分类。
+
+* [《Fuel》](www.github.com/mila-udem/fuel)
+
+介绍:Fuel为你的机器学习模型提供数据。他有一个共享如MNIST, CIFAR-10 (图片数据集), Google’s One Billion Words (文字)这类数据集的接口。你使用他来通过很多种的方式来替代自己的数据。
+
+* [《Bob》](www.github.com/idiap/bob)
+
+介绍:Bob是一个免费的信号处理和机器学习的工具。它的工具箱是用Python和C++语言共同编写的，它的设计目的是变得更加高效并且减少开发时间，它是由处理图像工具,音频和视频处理、机器学习和模式识别的大量软件包构成的。
+
+* [《Skdata》](www.github.com/jaberg/skdata)
+
+介绍:Skdata是机器学习和统计的数据集的库程序。这个模块对于玩具问题，流行的计算机视觉和自然语言的数据集提供标准的Python语言的使用。
+
+* [《MILK》](www.github.com/luispedro/milk)
+
+介绍:MILK是Python语言下的机器学习工具包。它主要是在很多可得到的分类比如SVMS,K-NN,随机森林，决策树中使用监督分类法。 它还执行特征选择。 这些分类器在许多方面相结合,可以形成不同的例如无监督学习、密切关系金传播和由MILK支持的K-means聚类等分类系统。
+
+* [《IEPY》](www.github.com/machinalis/iepy)
+
+介绍:IEPY是一个专注于关系抽取的开源性信息抽取工具。它主要针对的是需要对大型数据集进行信息提取的用户和想要尝试新的算法的科学家。
+
+* [《Quepy》](www.github.com/machinalis/quepy)
+
+介绍:Quepy是通过改变自然语言问题从而在数据库查询语言中进行查询的一个Python框架。他可以简单的被定义为在自然语言和数据库查询中不同类型的问题。所以，你不用编码就可以建立你自己的一个用自然语言进入你的数据库的系统。现在Quepy提供对于Sparql和MQL查询语言的支持。并且计划将它延伸到其他的数据库查询语言。
+
+* [《Hebel》](www.github.com/hannes-brt/hebel)
+
+介绍:Hebel是在Python语言中对于神经网络的深度学习的一个库程序，它使用的是通过PyCUDA来进行GPU和CUDA的加速。它是最重要的神经网络模型的类型的工具而且能提供一些不同的活动函数的激活功能，例如动力，涅斯捷罗夫动力，信号丢失和停止法。
+
+* [《mlxtend》](www.github.com/rasbt/mlxtend)
+
+介绍:它是一个由有用的工具和日常数据科学任务的扩展组成的一个库程序。
+
+* [《nolearn》](www.github.com/dnouri/nolearn)
+
+介绍:这个程序包容纳了大量能对你完成机器学习任务有帮助的实用程序模块。其中大量的模块和scikit-learn一起工作，其它的通常更有用。
+
+* [《Ramp》](www.github.com/kvh/ramp)
+
+介绍:Ramp是一个在Python语言下制定机器学习中加快原型设计的解决方案的库程序。他是一个轻型的pandas-based机器学习中可插入的框架，它现存的Python语言下的机器学习和统计工具（比如scikit-learn,rpy2等）Ramp提供了一个简单的声明性语法探索功能从而能够快速有效地实施算法和转换。
+
+* [《Feature Forge》](www.github.com/machinalis/featureforge)
+
+介绍:这一系列工具通过与scikit-learn兼容的API，来创建和测试机器学习功能。这个库程序提供了一组工具，它会让你在许多机器学习程序使用中很受用。当你使用scikit-learn这个工具时，你会感觉到受到了很大的帮助。（虽然这只能在你有不同的算法时起作用。）
+
+* [《REP》](www.github.com/yandex/rep)
+
+介绍:REP是以一种和谐、可再生的方式为指挥数据移动驱动所提供的一种环境。它有一个统一的分类器包装来提供各种各样的操作，例如TMVA, Sklearn, XGBoost, uBoost等等。并且它可以在一个群体以平行的方式训练分类器。同时它也提供了一个交互式的情节。
+
+* [《Python 学习机器样品》](www.github.com/awslabs/machine-learning-samples)
+
+介绍:用亚马逊的机器学习建造的简单软件收集。
+
+* [《Python-ELM》](www.github.com/dclambert/Python-ELM)
+
+介绍:这是一个在Python语言下基于scikit-learn的极端学习机器的实现。
+
+* [《Dimension Reduction》](http://forum.memect.com/thread/dimension-reduction/)
+
+介绍:电子书降维方法,此外还推荐[Dimensionality Reduction A Short Tutorial](http://www.stat.washington.edu/courses/stat539/spring14/Resources/tutorial_nonlin-dim-red.pdf)、[Matlab Toolbox for Dimensionality Reduction](http://lvdmaaten.github.io/drtoolbox/)、[Unsupervised Kernel Dimension Reduction](http://www.cs.berkeley.edu/~jordan/papers/wang-sha-jordan-nips11.pdf)
+
+* [《Datasets Used For Benchmarking Deep Learning Algorithms》](http://deeplearning.net/datasets/)
+
+介绍:deeplearning.net整理的深度学习数据集列表.
+
+* [《Golang Natural Language Processing》](https://github.com/advancedlogic/go-freeling)
+
+介绍:Go语言编写的自然语言处理工具.
+
+* [《Rehabilitation of Count-based Models for Word Vector Representations》](http://arxiv.org/abs/1412.4930)
+
+介绍:词频模型对词向量的反击,参考[Improving Distributional Similarity with Lessons Learned from Word Embeddings ](https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf)。
+
+* [《Three Aspects of Predictive Modeling》](http://static1.squarespace.com/static/51156277e4b0b8b2ffe11c00/t/55344152e4b0ff30bb9ec163/1429487954122/ASA_Kuhn.pdf)
+
+介绍:预测模型的三个方面.
+
+* [《CS224d: Deep Learning for Natural Language Processing》](http://cs224d.stanford.edu/)
+
+介绍:斯坦福大学深度学习与自然语言处理课程,部分课程笔记[词向量](http://www.52nlp.cn/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%AC%AC%E4%BA%8C%E8%AE%B2%E8%AF%8D%E5%90%91%E9%87%8F)、[引言](http://www.52nlp.cn/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%AC%AC%E4%B8%80%E8%AE%B2%E5%BC%95%E8%A8%80)
+
+* [《Google Computer Vision research at CVPR 2015》](http://googleresearch.blogspot.jp/2015/06/google-computer-vision-research-at-cvpr.html)
+
+介绍:CVPR2015上Google的CV研究列表.
+
+* [《Using Deep Learning to Find Basketball Highlights》](http://public.hudl.com/bits/archives/2015/06/05/highlights/)
+
+介绍:利用(Metamind)深度学习自动发现篮球赛精彩片段.
+
+* [《Learning Deep Features for Discriminative Localization》](http://arxiv.org/abs/1512.04150)
+
+介绍:对本土化特征学习的分析

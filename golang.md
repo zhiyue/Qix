@@ -1,18 +1,18 @@
-##Golang资料集
+## Golang资料集
 
 * [《Platform-native GUI library for Go》](https://github.com/andlabs/ui)
 
 介绍：跨平台的golang GUI库,支持Windows(xp以上),Unix,Mac OS X(Mac OS X 10.7以上)
 
-* [《Gopm 快速入门》](http://blog.go-china.org/25-gopm-intro)
+* [《Gopm 快速入门》](https://github.com/gpmgo/docs/tree/master/zh-CN)
 
-介绍：Gopm(Go 包管理工具) 是一个用于搜索、安装、更新和分享 Go 包的管理工具。
+介绍：[Gopm](https://github.com/gpmgo/gopm)(Go 包管理工具) 是一个用于搜索、安装、更新和分享 Go 包的管理工具。
 
-* [《go build 命令是如何工作的？》](http://blog.go-china.org/19-how-go-build-works)
+* [《go build 命令是如何工作的？》](http://mikespook.com/2013/11/%E7%BF%BB%E8%AF%91-go-build-%E5%91%BD%E4%BB%A4%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84%EF%BC%9F/)
 
 介绍：本文以 Go 的标准库为例，介绍了 Go 编译过程的工作原理。
 
-* [《Go 语言的国际化支持(资源文件翻译)》](http://blog.go-china.org/24-gettext-go)
+* [《Go 语言的国际化支持(资源文件翻译)》](http://my.oschina.net/chai2010/blog/190914)
 
 介绍：在之前的 [Go语言的国际化支持(基于gettext-go)](http://my.oschina.net/chai2010/blog/190914)中, 讲到了如何翻译源代码中的字符串.
 
@@ -20,14 +20,13 @@
 
 介绍：Go语言作为一个现代化的编程语言以及支持垃圾内存的自动回收特性(GC). 这篇文章主要介的是非内存资源的自动回收技术.
 
-* [《	Go 语言包管理》](http://gopm.io/)
+* [《Go 语言包管理》](http://gopm.io/)
 
 介绍：无需 Git 和 Hg 等版本管理工具，就可以下载指定版本的 Go 语言包
 
 * [《Go 语言中的方法，接口和嵌入类型》](http://se77en.cc/2014/05/05/methods-interfaces-and-embedded-types-in-golang/)
 
 介绍：本文主介绍Go 语言中的方法，接口和嵌入类型。[原文地址](http://www.goinggo.net/2014/05/methods-interfaces-and-embedded-types.html)
-
 
 * [《golang: 详解interface和nil》](http://my.oschina.net/goal/blog/194233)
 
@@ -97,15 +96,15 @@
 
 介绍：Go 1.4 将支持 Android
 
-* [《 Making and Receiving Phone Calls With Golang》](https://www.twilio.com/blog/2014/10/making-and-receiving-phone-calls-with-golang.html)
+* [《Making and Receiving Phone Calls With Golang》](https://www.twilio.com/blog/2014/10/making-and-receiving-phone-calls-with-golang.html)
 
 介绍：使用Golang打电话,接电话
 
-* [《 introduce Resources for Go》](http://codecondo.com/golang-resources/)
+* [《introduce Resources for Go》](http://codecondo.com/golang-resources/)
 
 介绍：国外的Go资源
 
-* [《 introduce Resources for Go》](https://github.com/avelino/awesome-go)
+* [《introduce Resources for Go》](https://github.com/avelino/awesome-go)
 
 介绍：A curated list of awesome Go frameworks, libraries and software 
 
@@ -204,3 +203,195 @@
 * [《A curated list of Golang books》](https://github.com/dariubs/GoBooks)
 
 介绍：Golang 图书列表.
+
+* [《Go crypto: bridging the performance gap》](https://blog.cloudflare.com/go-crypto-bridging-the-performance-gap/)
+
+介绍：CloudFlare的Go密码库crypto:弥合性能差距,[项目地址](https://github.com/cloudflare/go).
+
+* [《go-bootstrap》](http://go-bootstrap.io/)
+
+介绍：Generates a lean and mean Go web project.
+
+* [《gonix》](https://github.com/polegone/gonix)
+
+介绍：用Golang实现linux命令.
+
+* [《深入解析Go》](https://github.com/tiancaiamao/go-internals)
+
+介绍：深入解析Go书籍.
+
+* [《50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs》](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+
+介绍：Go编程陷阱.
+
+* [《Gb, a project based Golang build tool》](https://github.com/constabulary/gb)
+
+介绍：a project based Golang build tool.
+
+* [《Fundamentals of concurrent programming》](http://www.nada.kth.se/~snilsson/concurrency/)
+
+介绍：Go并发编程基础,[译版](http://blog.xiayf.cn/2015/05/20/fundamentals-of-concurrent-programming/).
+
+* [《fleet》](https://github.com/coreos/fleet)
+
+介绍：fleet 绑定了systemd 和etcd 到一个分布式init 系统，可以认为是systemd 的扩展，但是并不是机器级别的，而是集群级别的.
+
+* [《Go资料汇总》](http://studygolang.com/topics/node/13)
+
+介绍：Golang中国社区golang资料汇总.
+
+* [《Heim-A real-time community platform》](https://github.com/euphoria-io/heim)
+
+介绍：用go开发的实时通讯平台,数据库使用的pgsql.
+
+* [《Golang Performance Tips》](https://joshrendek.com/2015/09/golang-performance-tips/)
+
+介绍：Golang Performance Tips.
+
+* [《go, web, go ---On the web, Go, and building things》](https://elithrar.github.io/)
+
+介绍：推荐一个博客,以go开发为主,文如其名.
+
+* [《GoLang Books》](https://github.com/dariubs/GoBooks)
+
+介绍：GoLang 书籍集合.
+
+* [《50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs》](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+
+介绍：Go开发新手常犯的50个错误.
+
+* [《Golang By Eaxmples》](https://gobyexample.com/)
+
+介绍：Golang基本代码实例,[中文版](http://gobyexample.everyx.in/).
+
+* [《Golang News News for Go programmers》](http://golangnews.com/)
+
+介绍：Golang news.
+
+* [《fasthttp:Fast HTTP package for Go》](https://github.com/valyala/fasthttp)
+
+介绍：Fast HTTP package for Go.
+
+* [《fasthttp:Fast HTTP package for Go》](http://golang-china.github.io/gopl-zh/)
+
+介绍：[《The Go Programming Language》](http://gopl.io/) 的 读书笔记 和 习题解答.
+
+* [《The Go Programming Language》](https://wizardforcel.gitbooks.io/gopl-zh/content/)
+
+介绍：Go 语言圣经中文版
+
+* [《Network Programming with Go》](https://jannewmarch.gitbooks.io/network-programming-with-go-golang-/content/)
+
+介绍：这是一本关于使用golang写网络程序的电子书.
+
+* [《Seesaw:Google Open Source Load Balancer (Written in Go》](https://github.com/google/seesaw)
+
+介绍：谷歌开源的一款负载均衡器,[官方介绍](http://google-opensource.blogspot.com/2016/01/seesaw-scalable-and-robust-load.html).注意：非官方项目
+
+* [《Effective Go》](https://golang.org/doc/effective_go.html#introduction)
+
+介绍：Effective Go几乎是学习Go语言所必须阅读的重要的文档,涉及内容丰富，很多精要部分。中文参考[译文参考1](http://www.hellogcc.org/effective_go.html)，[译文参考2](http://www.chingli.com/coding/effective-go/)
+
+* [《Golang go》](http://golanggo.com/)
+
+介绍：Go语言日报,每天新鲜事
+
+* [《The Little Go Book》](http://openmymind.net/The-Little-Go-Book/)
+
+介绍：Golang小书,作者[主页](http://openmymind.net)的go资料也不错
+
+* [《Go 语言GUI库GoQt》](https://github.com/visualfc/goqt)
+
+介绍：在Go中使用Qt构建跨平台应用.
+
+* [《HTTP Request Contexts & Go》](http://elithrar.github.io/article/map-string-interface/)
+
+介绍：这篇文章是 Golang 开源库 Negroni 的[README.md](https://github.com/codegangsta/negroni)中推荐一篇的文章，讲的是 Golang 中如何处理请求的上下文信息.[译文](http://www.jianshu.com/p/177249bb0842)
+
+* [《服务端开发那些事儿》](http://www.csdn.net/article/2015-11-06/2826139)
+
+介绍：国内七牛云存储应用实践.
+
+* [《Good practices for writing shell scripts》](http://www.yoone.eu/articles/2-good-practices-for-writing-shell-scripts.html)
+
+介绍：Shell脚本编写良好实践指南.
+
+* [《Golang Wiki》](https://github.com/golang/go/wiki)
+
+介绍：Golang官方开源项目wiki主页,内容丰富.是学习golang的重要参考，文中还推荐了[awesome golang](http://awesome-go.com/).
+
+* [《Golang Courses》](https://github.com/golang/go/wiki/Courses)
+
+介绍：国外很多大学把Golang作为学习课程,本页推荐了很多相关的课程,新手可以学习参考.
+
+* [《Go实战开发》](https://github.com/astaxie/Go-in-Action)
+
+介绍：作者写这本书主要是灵感来自于： https://github.com/thekarangoel/Projects ，然后作者就想到了当初做PHP的时候，也有类似的项目，觉得golang也可以实现一个类似的书籍，暂且把书名定为《Go实战开发》.
+
+* [《Golang 语言基础之一： type, variable, constant》](http://xhrwang.me/2014/12/22/golang-fundamentals-1-types-variables-constants.html)
+
+介绍：Golang 语言学习基础教程.
+
+* [《Go Examples》](https://github.com/ibmendoza/go-examples)
+
+介绍：Collection of Go programs for quick reference,golang新手入门看源码就可以了.
+
+* [《Notes on Go》](https://brandur.org/go)
+
+介绍：国外的一位开发者在实践开发一个大型项目之后所写的笔记
+
+* [《Learning Go: Lexing and Parsing》](http://blog.leahhanson.us/post/recursecenter2016/recipeparser.html)
+
+介绍：利用go进行词法分析
+
+* [《dotConferences talks》](https://www.dotconferences.com/conference/dotgo-2017)
+
+介绍：dotGo conference 是相当盛大的 Golang 研讨会， Google 与 Golang 社群有许多权威都有加入這场盛会． 在這場有有许多值得一听的演讲． Francesc 讲 Machine Learning in Go Sam Boyer (dep 的主要开发者之一) 來讲 Dep Sameer Ajmani (Go team manager ) 來讲 Simulation real world in Go
+
+* [《A Gopher's Reading List》](https://github.com/enocom/gopher-reading-list)
+
+介绍：Golang学习阅读列表，基础知识、经典文章（高效的golang、并发）、编码风格、测试、Web、性能分析、垃圾回收、性能处理、字符编码处理、JSON编码与解码
+
+* [《Go libraries》](https://golanglibs.com/)
+
+介绍：Golang库搜索
+
+* [《Golang libraries of uber》](https://go.uber.org/)
+
+介绍：Uber的开源核心库。从重可以学习到一个大型系统的Go语言结构设计，里面涉及到配置、日志、工具组件、RPC、监控
+
+* [《Go语言高级编程(Advanced Go Programming)》](https://chai2010.gitbooks.io/advanced-go-programming-book/)
+
+介绍：本书涵盖CGO、Go汇编语言、RPC实现、Web框架实现、分布式系统等高阶主题，针对Go语言有一定经验想深入了解Go语言各种高级用法的开发人员。对于刚学习Go语言的读者，建议先从[《Go语言圣经》](https://github.com/gopl-zh/gopl-zh.github.com)开始系统学习Go语言的基础知识。
+
+* [《GopherCon 2018 liveblog》](https://about.sourcegraph.com/go/)
+
+介绍：GopherCon 2018会议分享文本,主题：包的实现，Go contributor，代码优化、机器学习的应用、项目结构、图像识别、测试
+
+* [《Go security》](https://github.com/guardrailsio/awesome-golang-security)
+
+介绍：Golang在安全领域的应用
+
+* [《Go conference》](https://github.com/golang/go/wiki/Conferences)
+
+介绍：Go会议主页列表。
+
+* [《Go 101》](https://go101.org/article/101.html)
+
+介绍：Go 101是一个系列，包含语言基础、技巧、内部细节、常见疑问。有[中文版](https://gfw.go101.org/article/101.html)
+
+* [《Understanding Real-World Concurrency Bugs in Go》](https://engineering.purdue.edu/~yiying/GoStudy-ASPLOS19.pdf)
+
+介绍：总结了非常多数量且有用的真实 Bug，用以警示我们未来使用这些同步原语时可能会犯的错误。[讨论](https://github.com/developer-learning/reading-go/issues/464)
+
+* [《Uber Go Style Guide》](https://github.com/uber-go/guide)
+
+介绍：Uber Go语言编码规范,[中文参考](https://tonybai.com/2019/10/12/uber-go-style-guide/)
+
+* [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)
+
+介绍：详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
+
+* [《go.dev》](https://go.dev/)
+
+介绍：Go官方团队又一生态建设社区，它提供了 godoc.org 的文档，界面更加友好。
